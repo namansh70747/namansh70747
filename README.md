@@ -1,319 +1,219 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=300&section=header&text=NAMAN%20SHARMA&fontSize=90&animation=fadeIn&fontAlignY=35&fontColor=FFFFFF&desc=Full-Stack%20MERN%20Developer&descSize=25&descAlignY=60&descColor=FFFFFF" width="100%" />
-</div>
+<!-- Animated Header -->
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=750&color=5CDBFF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=180&lines=Full-Stack+MERN+Developer;React+Frontend+Specialist;Building+Modern+Web+Applications;Docker+%26+Containerization+Expert" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Naman%20Sharma&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
-<!-- Enhanced Tech Stack - Focused on MERN -->
+<!-- Dynamic Typing Animation -->
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&align=center&titleAlign=center&lineCount=3&theme=github_dark&hideTitle=true&line1=react,react,61DAFB;node.js,node.js,339933;express,express,000000;mongodb,mongodb,47A248;&line2=javascript,javascript,F7DF1E;html5,html5,E34F26;css3,css3,1572B6;docker,docker,2496ED;&line3=git,git,F05032;vscode,vscode,007ACC;npm,npm,CB3837;postman,postman,FF6C37;&width=850&animation=true&animationSpeed=1.5">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&align=center&titleAlign=center&lineCount=3&theme=github&hideTitle=true&line1=react,react,61DAFB;node.js,node.js,339933;express,express,000000;mongodb,mongodb,47A248;&line2=javascript,javascript,F7DF1E;html5,html5,E34F26;css3,css3,1572B6;docker,docker,2496ED;&line3=git,git,F05032;vscode,vscode,007ACC;npm,npm,CB3837;postman,postman,FF6C37;&width=850&animation=true&animationSpeed=1.5">
-    <img alt="My Tech Stack" src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&align=center&titleAlign=center&lineCount=3&theme=github_dark&hideTitle=true&line1=react,react,61DAFB;node.js,node.js,339933;express,express,000000;mongodb,mongodb,47A248;&line2=javascript,javascript,F7DF1E;html5,html5,E34F26;css3,css3,1572B6;docker,docker,2496ED;&line3=git,git,F05032;vscode,vscode,007ACC;npm,npm,CB3837;postman,postman,FF6C37;&width=850&animation=true&animationSpeed=1.5">
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&height=100&lines=React+Frontend+Developer;MERN+Stack+Engineer;Docker+%26+Containerization;Building+Modern+Web+Apps" alt="Typing SVG" />
 </div>
 
-<!-- About Me Section -->
+<!-- Profile Info Card -->
 
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/3oKIPkHXpUP8lIO0AU/giphy.gif" width="35"> 
-    <span style="background: linear-gradient(to right, #8A2BE2, #00BFFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; padding: 0 10px;">ABOUT ME</span> 
-    <img src="https://media.giphy.com/media/3oKIPkHXpUP8lIO0AU/giphy.gif" width="35">
-  </h2>
-</div>
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td valign="top" width="50%">
-<div style="border-radius: 16px; padding: 25px; background: radial-gradient(circle at 10% 20%, rgba(26, 31, 48, 0.9) 0%, rgba(41, 48, 77, 0.8) 90.1%); box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);">
+  <table>
+    <tr>
+      <td width="55%">
+        <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 30px; color: white; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
 
 ```javascript
-const naman = {
-  role: "Full-Stack MERN Developer",
-  specialization: "React Frontend Development",
-  techStack: {
-    frontend: ["React", "JavaScript", "HTML5", "CSS3"],
-    backend: ["Node.js", "Express.js"],
-    database: ["MongoDB"],
+const developer = {
+  name: "Naman Sharma",
+  role: "Full Stack MERN Developer",
+  location: "India 🇮🇳",
+  
+  skills: {
+    frontend: ["React.js", "JavaScript", "HTML5", "CSS3"],
+    backend: ["Node.js", "Express.js", "REST APIs"],
+    database: ["MongoDB", "Mongoose"],
     tools: ["Docker", "Git", "VS Code", "Postman"]
   },
-  currentlyLearning: ["Advanced React Patterns", "Microservices"],
-  passion: ["Clean Code", "Responsive Design", "User Experience"],
-  goal: "Building scalable and efficient web applications"
+  
+  currentFocus: "Building scalable web applications",
+  mindset: "Clean code, great user experience"
 };
 ```
 
-#### 🌟 What I Do:
+### 🎯 **What I Do**
 
-- 🚀 **React Specialist** creating dynamic user interfaces
-- 🔧 **MERN Expert** building full-stack applications
-- 🐳 **Docker Enthusiast** containerizing applications
-- 💡 **Problem Solver** turning ideas into working solutions
-- 🌱 **Continuous Learner** staying updated with latest trends
+- 🚀 **Frontend**: Crafting responsive UIs with React
+- ⚙️ **Backend**: Building robust APIs with Node.js
+- 🗄️ **Database**: Managing data with MongoDB
+- 🐳 **DevOps**: Containerizing apps with Docker
+- 📱 **Mobile-First**: Responsive design enthusiast
 
 </div>
 </td>
-<td align="right" width="50%">
-<img src="https://i.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.webp" width="100%" style="border-radius: 16px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);" />
+<td width="45%">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" style="border-radius: 20px;"/>
+</div>
 </td>
 </tr>
 </table>
+</div>
 
-<!-- GitHub Analytics -->
+<!-- Tech Stack Visualization -->
 
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35"> 
-    <span style="background: linear-gradient(to right, #8A2BE2, #00BFFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; padding: 0 10px;">GitHub STATS</span>
-    <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35">
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+    Tech Arsenal
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
   </h2>
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=namansh70747&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CDBFF&icon_color=5CDBFF&text_color=FFFFFF&ring_color=8A2BE2&border_radius=10&card_width=495" 
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=namansh70747&show_icons=true&theme=default&hide_border=true&title_color=5CDBFF&icon_color=5CDBFF&ring_color=8A2BE2&border_radius=10&card_width=495"
-      media="(prefers-color-scheme: light)"
-    />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=namansh70747&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5CDBFF&icon_color=5CDBFF&text_color=FFFFFF&ring_color=8A2BE2&border_radius=10&card_width=495" />
-  </picture>
-
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=namansh70747&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=5CDBFF&fire=8A2BE2&currStreakLabel=5CDBFF&border_radius=10" 
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=namansh70747&theme=default&hide_border=true&ring=5CDBFF&fire=8A2BE2&currStreakLabel=5CDBFF&border_radius=10"
-      media="(prefers-color-scheme: light)"
-    />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=namansh70747&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=5CDBFF&fire=8A2BE2&currStreakLabel=5CDBFF&border_radius=10" />
-  </picture>
-</div>
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=namansh70747&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=5CDBFF&line=8A2BE2&point=5CDBFF&area=true&hide_border=true&radius=16">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=namansh70747&custom_title=My%20Contribution%20Graph&bg_color=FFFFFF&color=006AFF&line=8A2BE2&point=5CDBFF&area=true&hide_border=true&radius=16">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=namansh70747&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=5CDBFF&line=8A2BE2&point=5CDBFF&area=true&hide_border=true&radius=16" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,html,css,docker,git,github,vscode,postman&perline=6&theme=dark" />
 </div>
 
-<!-- Technology Skills -->
+<!-- GitHub Stats -->
 
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> 
-    <span style="background: linear-gradient(to right, #8A2BE2, #00BFFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; padding: 0 10px;">TECHNOLOGY SKILLS</span>
-    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840d4b5-7b4c-4d3e-b727-5dff10e8f3be.gif" width="30">
+    GitHub Analytics
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840d4b5-7b4c-4d3e-b727-5dff10e8f3be.gif" width="30">
   </h2>
 </div>
 
-```json
-{
-  "my_expertise": {
-    "frontend": {
-      "framework": "React.js",
-      "languages": ["JavaScript", "HTML5", "CSS3"],
-      "styling": ["CSS3", "Bootstrap", "Material-UI"],
-      "state_management": ["React Context", "Redux (learning)"]
-    },
-    "backend": {
-      "runtime": "Node.js",
-      "framework": "Express.js",
-      "api": "RESTful APIs"
-    },
-    "database": {
-      "primary": "MongoDB",
-      "tools": ["Mongoose", "MongoDB Compass"]
-    },
-    "devops_tools": {
-      "containerization": "Docker",
-      "version_control": "Git & GitHub",
-      "api_testing": "Postman",
-      "editor": "VS Code"
-    },
-    "currently_learning": [
-      "Advanced React Patterns",
-      "Redux for State Management",
-      "MongoDB Optimization",
-      "Docker Compose"
-    ]
-  }
-}
-```
-
-<div align="center" style="display: inline-block; margin-bottom: 30px; background: rgba(13, 17, 23, 0.4); padding: 20px; border-radius: 16px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2);">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,docker,git,github,vscode,postman&theme=dark&perline=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,docker,git,github,vscode,postman&perline=6">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,docker,git,github,vscode,postman&theme=dark&perline=6" style="border-radius: 10px;" />
-  </picture>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=namansh70747&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namansh70747&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
 </div>
 
-<!-- Trophy Section -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namansh70747&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F"/>
+</div>
+
+<!-- Activity Graph -->
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namansh70747&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true&radius=10" width="95%"/>
+</div>
+
+<!-- Expertise Breakdown -->
 
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 
-    <span style="background: linear-gradient(to right, #8A2BE2, #00BFFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; padding: 0 10px;">ACHIEVEMENTS</span>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-  </h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=namansh70747&theme=algolia&no-frame=true&row=1&column=7&margin-w=15">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=namansh70747&theme=flat&no-frame=true&row=1&column=7&margin-w=15">
-    <img src="https://github-profile-trophy.vercel.app/?username=namansh70747&theme=algolia&no-frame=true&row=1&column=7&margin-w=15" width="98%" />
-  </picture>
-</div>
-
-<!-- Project Showcase -->
-
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 
-    <span style="background: linear-gradient(to right, #8A2BE2, #00BFFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; padding: 0 10px;">FEATURED PROJECTS</span>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+    <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceea2-de86-4dd4-b9c8-1ce71d0b68c8.gif" width="30">
+    Expertise Level
+    <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceea2-de86-4dd4-b9c8-1ce71d0b68c8.gif" width="30">
   </h2>
 </div>
 
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <h3 align="center">E-Commerce MERN App</h3>
-        <div align="center">
-          <a href="https://github.com/namansh70747" target="_blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="View Repository" height="30" width="30">
-          </a>
-        </div>
-        <p align="center">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-        </p>
-        <p align="center">
-          Full-stack e-commerce application with user authentication, product management, and shopping cart functionality.
-        </p>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
+        <br><strong>Frontend</strong>
+        <br>React • JavaScript
+        <br>HTML5 • CSS3
       </td>
-      <td width="50%">
-        <h3 align="center">Task Management System</h3>
-        <div align="center">
-          <a href="https://github.com/namansh70747" target="_blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="View Repository" height="30" width="30">
-          </a>
-        </div>
-        <p align="center">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
-          <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
-        </p>
-        <p align="center">
-          A collaborative task management app with real-time updates, user roles, and Docker containerization.
-        </p>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
+        <br><strong>Backend</strong>
+        <br>Node.js • Express
+        <br>REST APIs
       </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Portfolio Website</h3>
-        <div align="center">
-          <a href="https://github.com/namansh70747" target="_blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="View Repository" height="30" width="30">
-          </a>
-        </div>
-        <p align="center">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-        </p>
-        <p align="center">
-          Responsive portfolio website showcasing my projects and skills with modern design and smooth animations.
-        </p>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
+        <br><strong>Database</strong>
+        <br>MongoDB
+        <br>Mongoose ODM
       </td>
-      <td width="50%">
-        <h3 align="center">Blog Application</h3>
-        <div align="center">
-          <a href="https://github.com/namansh70747" target="_blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="View Repository" height="30" width="30">
-          </a>
-        </div>
-        <p align="center">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-        </p>
-        <p align="center">
-          Full-featured blogging platform with CRUD operations, user authentication, and comment system.
-        </p>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
+        <br><strong>DevOps</strong>
+        <br>Docker
+        <br>Git & GitHub
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Connect Section -->
+<!-- Learning Journey -->
 
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> 
-    <span style="background: linear-gradient(to right, #8A2BE2, #00BFFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; padding: 0 10px;">LET'S CONNECT</span>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30">
+    Currently Learning
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30">
   </h2>
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 30px;">
+<div align="center">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=764ABC"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6"/>
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=010101"/>
+</div>
+
+<!-- Achievements -->
+
+<div align="center">
+  <h2>
+    <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30">
+    GitHub Achievements
+    <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30">
+  </h2>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=namansh70747&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+</div>
+
+<!-- Connect -->
+
+<div align="center">
+  <h2>
+    <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99cc33e16bf4.gif" width="30">
+    Let's Connect
+    <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99cc33e16bf4.gif" width="30">
+  </h2>
+</div>
+
+<div align="center">
   <a href="mailto:nsharma_be24@thapar.edu">
-    <img src="https://img.shields.io/badge/Gmail-nsharma__be24%40thapar.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
-  </a>
-  <a href="https://github.com/namansh70747">
-    <img src="https://img.shields.io/badge/GitHub-namansh70747-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" />
-  </a>
-  <a href="https://twitter.com/NamanSharm6779">
-    <img src="https://img.shields.io/badge/Twitter-@NamanSharm6779-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010" />
-  </a>
-  <a href="https://www.instagram.com/naman_70747/?__pwa=1">
-    <img src="https://img.shields.io/badge/Instagram-naman__70747-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
   </a>
   <a href="https://www.linkedin.com/in/naman-sharma-8b9bb6333">
-    <img src="https://img.shields.io/badge/LinkedIn-naman--sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+  </a>
+  <a href="https://github.com/namansh70747">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000"/>
+  </a>
+  <a href="https://twitter.com/NamanSharm6779">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
+  </a>
+  <a href="https://www.instagram.com/naman_70747/?__pwa=1">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
   </a>
 </div>
 
 <!-- Contribution Snake -->
 
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/3o7btQ0NH6Kl8CxCfK/giphy.gif" width="35"> 
-    <span style="background: linear-gradient(to right, #8A2BE2, #00BFFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; padding: 0 10px;">CONTRIBUTION ACTIVITY</span>
-    <img src="https://media.giphy.com/media/3o7btQ0NH6Kl8CxCfK/giphy.gif" width="35">
-  </h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
 <!-- Footer -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
-  <div style="margin: 30px 0;">
-    <h3 style="color: #5CDBFF;">💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
-  </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=namansh70747&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+</div>
 
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=namansh70747&label=Profile+Views&color=blueviolet&style=for-the-badge" />
-  </div>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=180&section=footer&animation=twinkling&fontAlignY=80&fontColor=FFFFFF&fontSize=25&text=Thanks%20for%20visiting!&animation=fadeIn" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn"/>
 </div>
