@@ -40,6 +40,10 @@ me := Developer{
 - Performance optimization techniques
 
 
+## GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namansh70747&layout=compact&theme=dark&hide_border=true)
+
 ## Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nsharma_be24@thapar.edu)
