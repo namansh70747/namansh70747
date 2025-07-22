@@ -1,33 +1,43 @@
-# Hi there, I'm Naman Sharma 👋
+# Hey! I'm Naman 👋
 
-**Full Stack MERN Developer** from India 🇮🇳
+**Go Backend Engineer** crafting high-performance systems from India 🇮🇳
 
 ## About Me
 
-I'm a passionate full-stack developer focused on building modern web applications with clean code and great user experiences.
+I'm a backend engineer who loves building robust, scalable systems with Go. There's something deeply satisfying about writing clean, efficient code that can handle thousands of requests without breaking a sweat. When I'm not optimizing APIs or diving into concurrency patterns, you'll find me exploring new ways to make software faster and more reliable.
 
-```javascript
-const developer = {
-  name: "Naman Sharma",
-  role: "Full Stack MERN Developer",
-  location: "India 🇮🇳",
-  focus: "Building scalable web applications"
-};
+```go
+type Developer struct {
+    Name        string
+    Role        string
+    Location    string
+    Passion     string
+    DailyDriver []string
+}
+
+me := Developer{
+    Name:        "Naman Sharma",
+    Role:        "Go Backend Engineer",
+    Location:    "India 🇮🇳",
+    Passion:     "Building systems that scale beautifully",
+    DailyDriver: []string{"Go", "Docker", "gRPC", "PostgreSQL"},
+}
 ```
 
-## Tech Stack
+## What I Work With
 
-**Frontend:** React.js, JavaScript, HTML5, CSS3  
-**Backend:** Node.js, Express.js, REST APIs  
-**Database:** MongoDB, Mongoose  
-**Tools:** Docker, Git, VS Code, Postman
+**Core:** Go, gRPC, REST APIs, Microservices  
+**Databases:** PostgreSQL, MongoDB, Redis  
+**Infrastructure:** Docker, Kubernetes, Linux  
+**Frontend:** React.js, JavaScript (when needed)  
+**Tools:** Git, VS Code, Postman, Prometheus
 
-## Currently Learning
+## Currently Exploring
 
-- Redux
-- TypeScript  
-- Docker Compose
-- Socket.io
+- Advanced Go concurrency patterns
+- Distributed systems design
+- Cloud-native architectures
+- Performance optimization techniques
 
 ## GitHub Stats
 
@@ -44,4 +54,4 @@ const developer = {
 
 ---
 
-*Thanks for visiting my profile!*
+*Always up for a good conversation about Go, system design, or that one bug that kept you up all night. Feel free to reach out!* 🚀
