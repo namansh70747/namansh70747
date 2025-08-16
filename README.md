@@ -26,11 +26,11 @@ me := Developer{
 
 ## What I Work With
 
-**Core:** Go, gRPC, REST APIs, Microservices  
+**Core:** Go, REST APIs  
 **Databases:** PostgreSQL, MongoDB, Redis  
 **Infrastructure:** Docker, Kubernetes, Linux  
 **Frontend:** React.js, JavaScript (when needed)  
-**Tools:** Git, VS Code, Postman, Prometheus
+**Tools:** Git, VS Code, Postman, Prometheus , Grafana 
 
 ## Currently Exploring
 
