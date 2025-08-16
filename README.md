@@ -20,7 +20,7 @@ me := Developer{
     Role:        "Go Backend Engineer",
     Location:    "India 🇮🇳",
     Passion:     "Building systems that scale beautifully",
-    DailyDriver: []string{"Go", "Docker", "gRPC", "PostgreSQL"},
+    DailyDriver: []string{"Go", "Docker", "PostgreSQL"},
 }
 ```
 
