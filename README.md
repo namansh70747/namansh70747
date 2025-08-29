@@ -18,22 +18,22 @@ When I'm not debugging production issues, you'll find me diving deep into distri
 **Core Stack**
 - **Go** - My language of choice for building robust backends
 - **PostgreSQL & MongoDB** - For when data needs a home
-- **Redis** - Because caching makes everything faster
+- **GORM** - Go Object-Relational Mapping library 
 
 **Infrastructure & DevOps**
-- **Docker & Kubernetes** - Containerizing all the things
-- **Linux** - My daily driver
-- **Prometheus & Grafana** - Keeping an eye on what matters
+- **Docker & Kubernetes** - Containerize and Orchestrate all the things
+- **Linux** -  first language for devops
+- **Prometheus & Grafana** - Keeping an eye on what matters through a good UI
 
 **Also Comfortable With**
-- **React.js & JavaScript** - For when I venture to the frontend
-- **Git, VS Code, Postman** - The usual suspects
+- **React.js & JavaScript** - when i want clean and good ui based apps (when their is none who want's to do then i do frontend rarely).
+- **Git, VS Code, Postman** - some basics things that we developer require like everyone else i know them also.
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Go concurrency patterns (channels are addictive!)
+- Go concurrency patterns (channels are addictive!)
 - Distributed system design principles
 - Cloud-native architecture patterns
 - Performance optimization at scale
