@@ -26,7 +26,7 @@ When I'm not debugging production issues, you'll find me diving deep into distri
 - **Prometheus & Grafana** - Keeping an eye on what matters through a good UI
 
 **Also Comfortable With**
-- **React.js & JavaScript** - when i want clean and good ui based apps (when their is none who want's to do then i do frontend rarely).
+- **React.js & JavaScript** - when i want clean and good ui based apps (when their is none in the team/group who want's to do then i do frontend rarely).
 - **Git, VS Code, Postman** - some basics things that we developer require like everyone else i know them also.
 
 ---
