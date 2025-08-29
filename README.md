@@ -1,6 +1,6 @@
 # Hey there, I'm Naman! 👋
 
-**Backend Engineer** passionate about crafting scalable systems with **Go** 🚀  
+**Backend Learner** passionate about crafting scalable systems with **Go** 🚀  
 *Currently building from India* 🇮🇳
 
 ---
