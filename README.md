@@ -15,8 +15,4 @@ Distributed systems · Go concurrency · OpenTelemetry · ArgoCD · Grafana
 
 ---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namansh70747&layout=compact&theme=dark&hide_border=true)](https://github.com/namansh70747)
-
----
-
 [LinkedIn](https://www.linkedin.com/in/naman-sharma-8b9bb6333) · nsharma_be24@thapar.edu
