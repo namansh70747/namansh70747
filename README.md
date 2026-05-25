@@ -1,18 +1,19 @@
-### Naman Sharma
-
-Go developer building backend systems and cloud-native infrastructure.  
-Contributor to CNCF ecosystem projects — Meshery, KubeStellar, PipeCD.
-
-Currently deepening work in distributed systems and Kubernetes observability.
+Go developer working on container runtimes, VMM internals, and Kubernetes infrastructure. Code merged into CNCF projects.
 
 ---
 
-**Stack**  
-Go · Kubernetes · Docker · Prometheus · PostgreSQL · Gin · GitHub Actions · Helm · gRPC
+Working on systems that run at the infrastructure layer — container runtimes, workload scheduling, and how Kubernetes manages the machinery underneath. Interested in how things actually work, not just how they're configured.
 
-**Building / Learning**  
-Distributed systems · Go concurrency · OpenTelemetry · ArgoCD · Grafana
+Contributor to Meshery, KubeStellar, and PipeCD.
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/naman-sharma-8b9bb6333) · nsharma_be24@thapar.edu
+**Stack**
+Go · Kubernetes · Docker · Prometheus · PostgreSQL · Gin · gRPC · Helm · GitHub Actions
+
+**Currently deepening**
+Distributed systems internals · Go concurrency · OpenTelemetry · ArgoCD · Grafana
+
+---
+
+LinkedIn · nsharma_be24@thapar.edu
